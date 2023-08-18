@@ -108,7 +108,6 @@ int main(void)
 	feature("avx512-fp16",         edx, 23);
 	feature("amx-tile",            edx, 24);
 	feature("amx-int8",            edx, 25);
-	feature("amx-int8",            edx, 25);
 
 	printf("\n");
 
